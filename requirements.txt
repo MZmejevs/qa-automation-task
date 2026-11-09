@@ -1,0 +1,5 @@
+pytest
+pytest-check
+requests
+pydantic>=2
+pytest-html
